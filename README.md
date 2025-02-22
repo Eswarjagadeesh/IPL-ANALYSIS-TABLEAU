@@ -2,7 +2,7 @@
 This project provides a data visualization dashboard for IPL (Indian Premier League) analysis using Tableau. It includes insights into player performances, team statistics, and match results, enabling a better understanding of IPL trends.
 
 Final preview
-![Project Screenshort](ss project.png)
+![Project Screenshort](ss-project.png)
 
 📊 Key Insights & Visualizations
 Top Run Scorers – Visualizes the highest run-getters in IPL history.
